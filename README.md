@@ -1,2 +1,4 @@
 # hello-world
-Exploring GitHub... Doing the tutorial.
+
+Hello Humans!
+This file is for you. Read and understand it.
